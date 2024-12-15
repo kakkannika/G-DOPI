@@ -1,0 +1,41 @@
+name: e_learning_app
+description: A new Flutter project.
+
+# The version of your app
+version: 1.0.0+1
+
+# The Dart SDK version you are using
+environment:
+  sdk: ">=3.5.3 <4.0.0"
+
+# Dependencies for the app
+dependencies:
+  flutter:
+    sdk: flutter
+  syncfusion_flutter_pdfviewer: ^28.1.33
+# Development dependencies (e.g., testing and linting tools)
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+# Flutter-specific settings
+flutter:
+  uses-material-design: true
+
+  # Declaring assets (images and files used in the app)
+  assets:
+    - assets/images/logo.png
+    - assets/images/Grade_Calculate.png
+    - assets/images/Science.png
+    - assets/images/Social_Science.png
+    - assets/images/Tips.jpg
+    - assets/images/biology.png
+    - assets/images/chemistry.png
+    - assets/images/english.png
+    - assets/images/math.png
+    - assets/images/physics.png
+    - assets/images/History.png
+    - assets/images/khmer.png
+    - assets/images/search_screen.png
+    - assets/Files/Complex.pdf
