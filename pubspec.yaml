@@ -13,6 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
   syncfusion_flutter_pdfviewer: ^28.1.33
+  shared_preferences: ^2.2.2
 # Development dependencies (e.g., testing and linting tools)
 dev_dependencies:
   flutter_test:
